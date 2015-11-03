@@ -1,0 +1,2 @@
+# 1 different group configurations
+[[ 0,  1,  2], [ 3,  4,  5]]
